@@ -1,3 +1,3 @@
-# Graduate Course Projects
+# Long Short-Term Memory Network Distillation
 
-In this repository, several of my higher-level projects from my graduate courses are included, usually as Jupyter notebooks.
+As part of a graduate Advanced Machine Learning course, this project was created as my final project. In it, my goal was to utilize Distillation for an LSTM, to see if a regular neural network could be distilled time-series information from an LSTM network. See the final_report.pdf for the complete findings.
